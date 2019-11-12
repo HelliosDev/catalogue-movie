@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Katalog Favorit</string>
+    <string name="more">Lebih Lanjut</string>
+    <string name="menu_language">Bahasa</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="message_add_favorite">telah ditambahkan sebagai favorit</string>
+    <string name="message_remove_favorite">telah dihapus dari favorit</string>
+    <string name="btn_text_add_favorite">Tambahkan Favorit</string>
+    <string name="btn_text_remove_favorite">Hapus Favorit</string>
+</resources>

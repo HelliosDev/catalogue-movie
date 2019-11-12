@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CatalogueMovieExtendedApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Wendy Kurniawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="nav_title_home">Home</string>
+    <string name="nav_title_favorite">Favorit</string>
+    <string name="nav_title_search">Pencarian</string>
+
+    <string name="menu_search">Cari</string>
+    <string name="menu_language">Bahasa</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="upcoming">Segera</string>
+    <string name="title_search">Pencarian</string>
+    <string name="search">Cari</string>
+    <string name="btn_search">Cari</string>
+    <string name="title_now_playing">Sedang Tayang</string>
+    <string name="title_upcoming">Segera</string>
+    <string name="more">Lebih Lanjut</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="message_add_favorite">telah ditambahkan sebagai favorit</string>
+    <string name="message_remove_favorite">telah dihapus dari favorit</string>
+    <string name="btn_text_add_favorite">Tambahkan Favorit</string>
+    <string name="btn_text_remove_favorite">Hapus Favorit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appwidget_text">Favorit</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="title_daily_reminder">Halo, yuk kembali lagi</string>
+    <string name="message_daily_reminder">Kami sangat kangen anda</string>
+    <string name="release_today_notif">telah dirilis hari ini</string>
+</resources>

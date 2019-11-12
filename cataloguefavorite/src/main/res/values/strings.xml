@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Catalogue Favorite</string>
+    <string name="more">More</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="message_add_favorite">is added to favorite</string>
+    <string name="message_remove_favorite">is removed from favorite</string>
+    <string name="btn_text_add_favorite">Add Favorite</string>
+    <string name="btn_text_remove_favorite">Remove Favorite</string>
+    <string name="msg_img_detail">This is the image for the detail page</string>
+    <string name="msg_list">This is the list of the image</string>
+</resources>

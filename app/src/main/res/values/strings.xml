@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CatalogueMovieExtendedApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Wendy Kurniawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_title_home">Home</string>
+    <string name="nav_title_favorite">Favorite</string>
+    <string name="nav_title_search">Search</string>
+
+    <string name="menu_search">Search</string>
+    <string name="menu_language">Language</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="title_search">Search</string>
+    <string name="search">Search</string>
+    <string name="btn_search">Search</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="more">More</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="message_add_favorite">is added to favorite</string>
+    <string name="message_remove_favorite">is removed from favorite</string>
+    <string name="btn_text_add_favorite">Add Favorite</string>
+    <string name="btn_text_remove_favorite">Remove Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appwidget_text">Favorite</string>
+    <string name="no_data">No Data</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_daily_reminder">Hello, please come back</string>
+    <string name="message_daily_reminder">We miss you</string>
+    <string name="release_today_notif">has been released today</string>
+    <string name="text_daily">Daily Reminder</string>
+    <string name="text_release">Release Reminder</string>
+    <string name="text_language">Language</string>
+    <string name="msg_favorite">This is the image for the favorite page</string>
+    <string name="msg_img_detail">This is the image of detail page</string>
+</resources>
